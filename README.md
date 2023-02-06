@@ -13,12 +13,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+#### Desktop
+
+![Desktop](./images/Desktop.png)
+
+#### Mobile
+
+![Mobile](./images/Mobile.png)
 
 ### Links
 
 - Solution URL: [Github URL](https://github.com/fva062001/columnPreview)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- Live Site URL: [Live URL](https://column-preview.vercel.app/)
 
 ## My process
 
